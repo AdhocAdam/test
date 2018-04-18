@@ -1,2 +1,2 @@
 # test
-Just a place for testing out GitHub pages
+This is the readme file on master.
