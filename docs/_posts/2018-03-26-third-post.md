@@ -2,7 +2,7 @@
 layout: post
 title: "third post"
 image: 
-  path: /images/so-simple-sample-image-3.jpg
+  thumbnail: /images/so-simple-sample-image-3.jpg
 author: Adam
 ---
 This is another file with a code block
