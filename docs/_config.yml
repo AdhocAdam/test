@@ -24,6 +24,7 @@ baseurl: "/test"
 url: "https://adhocadam.github.io"
 logo: "/images/image-alignment-150x150.jpg"
 date_format: "%B %-d, %Y"
+
 read_time: true
 words_per_minute: # 200
 mathjax: true
@@ -72,6 +73,9 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
+  
+gems:
+  - jekyll-octicons
 
 # Collections
 collections:
